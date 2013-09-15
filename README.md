@@ -6,7 +6,7 @@
 ## Installation
 
 
-Just download the Theme and placed under `/sites/all/themes` in your Drupal Instalation.
+Just download the Theme and place it under `/sites/all/themes` in your Drupal Instalation.
 
 
 ##Dependencies
